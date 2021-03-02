@@ -1,5 +1,8 @@
 {
   "name": "Canvas Demo",
   "description": "A Canvas Demo app on NodeJS",
-  "repository": "https://github.com/dhargalkar/CanvasDemo"
+  "repository": "https://github.com/dhargalkar/CanvasDemo",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/main/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
 }
